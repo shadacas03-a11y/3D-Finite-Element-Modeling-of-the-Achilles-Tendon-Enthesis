@@ -1,0 +1,2 @@
+# 3D-Finite-Element-Modeling-of-the-Achilles-Tendon-Enthesis
+A computational workflow for MRI-based surface processing, volumetric meshing, and finite element analysis (FEA) of the human Achilles tendon enthesis. This project compares an unpartitioned whole-tissue baseline (Model A) with a multi-region segmented assembly (Model B) incorporating the tendon body, (UFC), and calcified fibrocartilage (CFC).
